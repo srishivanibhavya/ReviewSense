@@ -1,0 +1,4 @@
+backend/venv/
+backend/saved_models/
+backend/Reviews.csv
+frontend/node_modules/
